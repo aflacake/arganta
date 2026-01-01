@@ -1,3 +1,5 @@
+![Logo Arganta](https://raw.githubusercontent.com/aflacake/arganta/main/img/logo.png)
+
 # Arganta 
 ###### Akurat, Terbukti, Terstruktur.
 _Dijadikan latihan, tidak akan langsung “menyelesaikan”_
